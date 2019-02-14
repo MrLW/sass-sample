@@ -1,0 +1,8 @@
+// 定义变量
+$fontSize: 20px;
+$font:1px solid $fontSize;
+div {
+    font-style: $font;
+}
+
+// 特殊变量
